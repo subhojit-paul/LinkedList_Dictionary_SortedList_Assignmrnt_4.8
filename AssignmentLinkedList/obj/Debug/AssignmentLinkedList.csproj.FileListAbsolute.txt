@@ -1,0 +1,7 @@
+F:\Training_Days\Training_DotNetConsoleApp\AssignmentLinkedList\AssignmentLinkedList\bin\Debug\AssignmentLinkedList.exe.config
+F:\Training_Days\Training_DotNetConsoleApp\AssignmentLinkedList\AssignmentLinkedList\bin\Debug\AssignmentLinkedList.exe
+F:\Training_Days\Training_DotNetConsoleApp\AssignmentLinkedList\AssignmentLinkedList\bin\Debug\AssignmentLinkedList.pdb
+F:\Training_Days\Training_DotNetConsoleApp\AssignmentLinkedList\AssignmentLinkedList\obj\Debug\AssignmentLinkedList.csprojAssemblyReference.cache
+F:\Training_Days\Training_DotNetConsoleApp\AssignmentLinkedList\AssignmentLinkedList\obj\Debug\AssignmentLinkedList.csproj.CoreCompileInputs.cache
+F:\Training_Days\Training_DotNetConsoleApp\AssignmentLinkedList\AssignmentLinkedList\obj\Debug\AssignmentLinkedList.exe
+F:\Training_Days\Training_DotNetConsoleApp\AssignmentLinkedList\AssignmentLinkedList\obj\Debug\AssignmentLinkedList.pdb
